@@ -1,7 +1,7 @@
 # virtual-key-repository
-#  virtual-key-repository
 
-# Background of the problem statement:
+
+Background of the problem statement:
 
                Company Lockers Pvt. Ltd. hired you as a Full Stack Developer. They aim to digitize their products and chose LockedMe.com as their first project to start with. You’re asked to develop a prototype of the application. The prototype of the application will be then presented to the relevant stakeholders for budget approval. Your manager has set up a meeting where you’re asked to present the following in the next 15 working days (3 weeks): 
 
@@ -39,7 +39,7 @@ Project objective:
              2) Search for File/Folder recursively.
              3) Add/Delete File/Folder recursively.
 
-# Component Hierarchy:
+ Component Hierarchy:
 
      File	                                                                      Description
 LockedMeMainProgram.java	                          This program contains the Main method. It's the entry point of the program.
