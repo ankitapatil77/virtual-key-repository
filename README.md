@@ -41,11 +41,11 @@ Project objective:
 
 # Component Hierarchy:
 
-     File	                                          Description
-LockedMeMainProgram.java	This program contains the Main method. It's the entry point of the program.
-FileMenuOption.java	        This program contains methods for displaying menu options.
-FileHandleOption.java	        This program contains methods for handling different options from user input and calls respective methods from FileOperations.
-FileOperation.java	        This program defines all the operations required for displaying, searching, deleting, and adding files/folder.
+     File	                                                                      Description
+LockedMeMainProgram.java	                          This program contains the Main method. It's the entry point of the program.
+FileMenuOption.java	                                This program contains methods for displaying menu options.
+FileHandleOption.java	                              This program contains methods for handling different options from user input and calls respective methods from 
+FileOperation.java	                                This program defines all the operations required for displaying, searching, deleting, and adding files/folder.
 
 
 
